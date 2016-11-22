@@ -1,0 +1,2 @@
+jsonp = ->
+  return 0
