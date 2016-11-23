@@ -1,4 +1,4 @@
-body = document.body;
+body = document.body
 
 start =
   x: 0
